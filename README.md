@@ -21,7 +21,7 @@
 
 ---
 
-بِسْمِ اللهِ الرَّحْمَنِ الرَّحِيْمِ 
+<h1 align="center">بِسْمِ اللهِ الرَّحْمَنِ الرَّحِيْمِ
 <h1 align="center">## ✨  بِسْمِ اللهِ الرَّحْمَنِ الرَّحِيْمِ  ✨
 <p align="left">
   <i>- 🌠 **InsyaAllah Menunaikan Umrah dan Haji** - yakin dan terus berjuang  
@@ -31,6 +31,7 @@
 </p>
 
 ---
+
 
 
 
